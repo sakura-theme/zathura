@@ -8,8 +8,8 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/zathura/zathurarc` to `~/.config/zathura/zathurarc`.
+Clone this repository and copy `/path/to/zathura/zathurarc` to `~/.config/zathura/zathurarc`.
 
 ```
-git clone https://github.com/sakura-theme/zathura.git /path/to
+git clone https://github.com/sakura-theme/zathura.git /path/to/zathura
 ```
